@@ -1,5 +1,5 @@
-java -jar World-News-Arcticles-Matching/NewsCrawler/crawler.jar
+java -jar Web-Arcticle-Extractor/NewsCrawler/crawler.jar
 
-cp -r World-News-Arcticles-Matching/NewsCrawler/filesXML/ ../../World-News-Arcticles-Matching
+cp -r Web-Arcticle-Extractor/NewsCrawler/filesXML/ ../../World-News-Arcticles-Matching
 
 python World-News-Arcticles-Matching/source/main.py
