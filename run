@@ -10,8 +10,7 @@ cd ../../
 
 
 
-sudo cp -r Web-Arcticle-Extractor/NewsCrawler/filesXML/ ../../World-News-Arcticles-Matching
-
+sudo cp -r Web-Arcticle-Extractor/NewsCrawler/filesXML/ World-News-Arcticles-Matching/
 
 
 cd World-News-Arcticles-Matching/source
