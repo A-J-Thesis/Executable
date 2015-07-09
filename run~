@@ -1,4 +1,0 @@
-java -jar /World-News-Arcticles-Matching/crawler.jar
-
-python main.py
-
