@@ -1,9 +1,22 @@
 cd Web-Arcticle-Extractor/NewsCrawler/ 
 
+
+
 java -jar crawler.jar
+
+
 
 cd ../../
 
+
+
 cp -r Web-Arcticle-Extractor/NewsCrawler/filesXML/ ../../World-News-Arcticles-Matching
 
-python World-News-Arcticles-Matching/source/main.py
+
+
+cd World-News-Arcticles-Matching/source
+
+
+
+python main.py
+
