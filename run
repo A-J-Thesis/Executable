@@ -1,4 +1,4 @@
-java -jar /World-News-Arcticles-Matching/crawler.jar
+java -jar /World-News-Arcticles-Matching/NewsCrawler/crawler.jar
 
-python /World-News-Arcticles-Matching/main.py
+python /World-News-Arcticles-Matching/source/main.py
 
