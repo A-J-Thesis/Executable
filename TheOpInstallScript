@@ -1,0 +1,26 @@
+#!/bin/bash
+
+sudo apt-get -y install git
+
+git clone https://github.com/A-J-Thesis/Web-Arcticle-Extractor.git
+git clone https://github.com/A-J-Thesis/World-News-Arcticles-Matching.git
+
+wget https://bootstrap.pypa.io/ez_setup.py -O - | sudo python
+
+sudo easy_install pip
+
+sudo pip install -U nltk
+
+sudo apt-get -y install build-essential python-dev python-setuptools python-numpy python-scipy libatlas-dev libatlas3gf-base
+
+pip install --user --install-option="--prefix=" -U scikit-learn
+
+sudo pip install textblob
+
+python < help_file
+
+sudo apt-get -y install python-bs4
+sudo apt-get update
+sudo apt-get -y install default-jre
+sudo apt-get -y install default-jdk
+
