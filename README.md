@@ -1,2 +1,2 @@
-# Similar-World-News-Articles
-Crawl articles efficiently from world news websites and calculates their similarity and aggregates them into topics.
+# Executable
+Complete Guide including Scripts to run our program
