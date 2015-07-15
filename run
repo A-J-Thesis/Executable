@@ -1,3 +1,8 @@
+# Project:  World News Articles Matching
+# File:     run
+# Authors:  Jason Papapanagiotakis, Aris Kotsomitopoulos
+# Github:   https://github.com/A-J-Thesis/Executable
+
 cd Web-Arcticle-Extractor/NewsCrawler/ 
 
 
