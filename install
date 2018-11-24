@@ -2,7 +2,7 @@
 
 # Project:  World News Articles Matching
 # File:     install
-# Authors:  Jason Papapanagiotakis, Aris Kotsomitopoulos
+# Authors:  Jason Papapanagiotakis, Aristotelis Kotsomitopoulos
 # Github:   https://github.com/A-J-Thesis/Executable
 
 sudo apt-get -y install git python-pip
